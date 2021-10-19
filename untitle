@@ -1,0 +1,4 @@
+install 
+npm i express-validator 
+npm i bcrypt
+npm i jsonwebtoken
